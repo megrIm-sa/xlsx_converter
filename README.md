@@ -3,9 +3,9 @@ Excel Converter is a powerful tool designed to convert Excel files (.xlsx) into 
 ## Features
 #### Excel to CFG Conversion:
 
-- Convert specific Excel files to CFG format.
+- Convert Excel files to CFG format.
 - CFG sections are defined by the first column in the Excel file.
-- Columns marked with (String) in their name are converted to string format, with this indication removed from the section name.
+- Columns marked with (String) in their name are converted to string format.
 - Boolean values (True/False) are converted to lowercase (true/false).
 #### Excel to CSV Conversion:
 
